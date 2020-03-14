@@ -6,3 +6,8 @@ Packing list
 - Laptop
 - Files
 - Food
+--------
+Let's also do Picnic
+- Food
+- Drinks
+- Plates & Cups
